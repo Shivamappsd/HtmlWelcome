@@ -1,0 +1,49 @@
+    @import url('https://fonts.googleapis.com/css2?family=Asul:wght@700&family=Lobster&family=Nunito:ital,wght@1,500&display=swap');
+
+    #hding{
+        font-family: 'Asul', sans-serif;
+        text-align: center;
+        color:rgb(19, 18, 18);
+        font-size: 3em;
+        
+    }
+    .himg{ 
+        margin-top: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    #whding{
+        margin-left : 60px;
+        color:rgb(12, 10, 10);
+    }
+    .ahtml{
+        margin-left: 60px;
+        font-family:'Nunito', sans-serif;
+        font-size: 20px;
+        
+    }
+    .vedio{ 
+        margin-left: 40vw;
+        
+    }
+
+    
+    .youtube-video-container {
+        padding-top: 56.25%;
+        height: 0px;
+        position: relative;
+        border: 5px solid #c6aeae;
+        box-sizing: border-box;
+    }
+
+    .youtube-video {
+        width: 50%;
+        height: 50%;
+        margin-top:40px;
+        margin-left: 25%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
